@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+#c{
+    color:white;
+    /*margin:auto;*/
+    width:calc(100vh + calc(50vh - 25px));
+    image-rendering:pixelated;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+body,html{
+    background-color:black;
+    padding:0px;
+    margin:0px;
+}
